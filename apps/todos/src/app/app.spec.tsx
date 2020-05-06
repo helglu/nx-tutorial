@@ -1,5 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
+import { Todo } from '@myorg/data';
 
 import App from './app';
 
